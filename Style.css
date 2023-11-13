@@ -36,3 +36,12 @@ section {
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
+.tombol:hover {
+  background-color: #FFB6C1;
+  transform: scale(1.05);
+}
+.tombol:active {
+  transform: scale(0.95);
+  background-color: #E0FFff;
+}
+
