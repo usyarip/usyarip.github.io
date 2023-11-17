@@ -1,11 +1,14 @@
 body {
   background-color: #eeee;
+  font-family: 'Lobster', sans-serif;
 }
+
+
 .jumbotron {
-  background-image: url(Img/Pc.jpg);
-  color: white;
+  color: black;
   padding-top: 6rem;
   background-color: #e2edff;
+  
 }
 .jumbotron img, h1, .lead, .somay {
   animation: text-fade 10s linear infinite;
